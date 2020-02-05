@@ -1,6 +1,6 @@
 {
   "name": "package-test21",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "dist/bundle.js",
   "scripts": {
@@ -25,12 +25,12 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
   },
-  "peerDependencies": {      
+  "peerDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
- "devDependencies": {      
+  "devDependencies": {
     "react": "^16.12.0",
-    "react-dom": "^16.12.0" 
- }  
+    "react-dom": "^16.12.0"
+  }
 }
